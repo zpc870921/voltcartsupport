@@ -18,7 +18,7 @@ namespace customersupport.Security
                 }
             }
 
-            var response = await innerAgent.RunAsync(session,options,cancellationToken);
+            var response = await innerAgent.RunAsync(messages,session,options,cancellationToken);
             var lastResponseMessage = response.Messages.LastOrDefault().Text;
             if(lastResponseMessage.Length>5000)
             {
