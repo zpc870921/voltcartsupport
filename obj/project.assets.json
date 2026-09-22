@@ -1271,23 +1271,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
-    "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "D:\\zpc\\soft\\NuGetPackages": {},
+    "D:\\zpc\\soft\\vs2022\\shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\zpc\\demo\\agentdemo\\customersupport\\customersupport.csproj",
+      "projectUniqueName": "D:\\zpc\\demo\\AI\\workflow\\voltcartsupport\\customersupport.csproj",
       "projectName": "customersupport",
-      "projectPath": "E:\\zpc\\demo\\agentdemo\\customersupport\\customersupport.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\zpc\\demo\\agentdemo\\customersupport\\obj\\",
+      "projectPath": "D:\\zpc\\demo\\AI\\workflow\\voltcartsupport\\customersupport.csproj",
+      "packagesPath": "D:\\zpc\\soft\\NuGetPackages",
+      "outputPath": "D:\\zpc\\demo\\AI\\workflow\\voltcartsupport\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\zpc\\soft\\vs2022\\shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zoupc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1315,7 +1315,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
@@ -1378,7 +1378,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
